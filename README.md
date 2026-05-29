@@ -1,5 +1,5 @@
 # EXP-3
-EXPT NO: 3				STAIR CASE WIRING                     
+EXPT NO:3 STAIR CASE WIRING                     
 
  
 AIM
@@ -40,11 +40,16 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+<img width="1042" height="401" alt="Screenshot 2026-05-29 104004" src="https://github.com/user-attachments/assets/5e963009-c9f6-4fa9-8b48-0dcc0b2203a8" />
+
 Tabulation:1
+<img width="516" height="576" alt="Screenshot 2026-05-29 104347" src="https://github.com/user-attachments/assets/9a6361d4-3f9c-4b04-891e-31c089984827" />
 	
 Cross connection: CIRCUIT DIAGRAM:
+<img width="1045" height="386" alt="Screenshot 2026-05-29 104104" src="https://github.com/user-attachments/assets/de92bdf7-ce3d-4ebf-9f07-a862ebe6d24d" />
 
 Tabulation:2
+<img width="453" height="577" alt="Screenshot 2026-05-29 104404" src="https://github.com/user-attachments/assets/8d30c7d7-0659-442b-9e07-25ab8107781c" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
